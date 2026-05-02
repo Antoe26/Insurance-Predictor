@@ -44,6 +44,8 @@ Visualization
  Activate it: source venv/bin/activate
  Install dependencies: pip install -r requirements.txt
  Run the app: streamlit run app.py
- 👤 Author
+ 
+** 👤 Author**
+ 
  Anthony Macharia
 Mathematics and Computer Science Student, Murang'a University of Technology
