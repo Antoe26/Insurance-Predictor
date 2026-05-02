@@ -58,7 +58,9 @@ The model was evaluated using **5-fold cross-validation**, achieving a mean accu
 1. **Clone the repo:**
    ```bash
    git clone  (https://github.com/Antoe26/Insurance-Predictor.git)
-2. **  Create a virtual environment: python3 -m venv venv
+2. **Create a virtual environment:**
+   ```bash
+    python3 -m venv venv
 
 3. **Activate it:**
    ```bash
@@ -68,9 +70,11 @@ The model was evaluated using **5-fold cross-validation**, achieving a mean accu
    ```bash
       pip install -r requirements.txt
 
- **Run the app:** 
-    ```bash 
- streamlit run app.py
+ 5.**Run the app:** 
+    ```bash
+     streamlit run app.py
+     
+           
 
 👤 **Author:**
 Anthony Macharia
