@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 import joblib
+from utils import convert_age_to_midpoint, convert_income_to_midpoint
+ 
 
 # 1. Load the pipeline (Ensuring version alignment)
 model = joblib.load('insurance_model_pipeline.pkl') 
