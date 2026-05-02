@@ -42,7 +42,7 @@ Visualization:
  
  📝 How to Run Locally
  :
- Clone the repo: git clone [https://github.com/your-username/insurance-predictor.git](https://github.com/your-username/insurance-predictor.git)
+ Clone the repo: git clone  https://github.com/Antoe26/Insurance-Predictor.git
  Create a virtual environment: python3 -m venv venv
  Activate it: source venv/bin/activate
  Install dependencies: pip install -r requirements.txt
